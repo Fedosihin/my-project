@@ -1,0 +1,9 @@
+/* Пример: стилизация всех кнопок с классом .btn */
+/*button, .btn, [type="button"] {
+  background: linear-gradient(to right, #ff5e62, #ff9966) !important;
+  color: white !important;
+  border: none !important;
+  padding: 10px 20px !important;
+  border-radius: 5px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+}*/
